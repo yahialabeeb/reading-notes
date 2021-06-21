@@ -2,7 +2,7 @@
 
 |Reading number|link|
 |----|----|
-| 03 | [link]()|
+| 03 | [link](https://yahialabeeb.github.io/reading-notes/read03.md)|
 | 04 | [link]()|
 | 05 | [link]()|
 | 06 | [link]()|
