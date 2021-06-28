@@ -20,7 +20,7 @@
 * By default, most browsers add a margin to the top of the <h1>element. 
 ## Screen Sizes
     The web designing faced with challenge that different users will have different sized screens.
-##Screen Resolution
+## Screen Resolution
 > Resolution refers to the number of dots a screen shows per inch. Some 
 devices have a higher resolution than desktop computers and most 
 operating systems allow users to adjust the resolution of their screens.
