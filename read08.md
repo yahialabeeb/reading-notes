@@ -18,3 +18,14 @@
 * When the position property is given a value of absolute,the box is taken out of normal flow and no longer affects the position of other elements on the page.
 
 * By default, most browsers add a margin to the top of the <h1>element. 
+## Screen Sizes
+    The web designing faced with challenge that different users will have different sized screens.
+##Screen Resolution
+> Resolution refers to the number of dots a screen shows per inch. Some 
+devices have a higher resolution than desktop computers and most 
+operating systems allow users to adjust the resolution of their screens.
+  
+## Fixed Width Layouts
+ It is the web page that  the user can not increases or decreases the size of their browser window
+## Liquid Layouts
+> The liquid layout uses percentages to specify the width of each box so that the design will stretch to fit the size of the screen
