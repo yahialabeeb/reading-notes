@@ -10,7 +10,7 @@
 | 07 | [link]((https://yahialabeeb.github.io/reading-notes/read07)|
 | 08 | [link]((https://yahialabeeb.github.io/reading-notes/read08)|
 
-## Second tavle
+## Second table
 
 |Reading number|link|
 |----|----|
