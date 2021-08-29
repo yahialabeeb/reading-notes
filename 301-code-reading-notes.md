@@ -1,16 +1,19 @@
 ## First table
-|Reading number|link|
+
+|Reading class number|link|
 |----|----|
-| 03 | [link](https://yahialabeeb.github.io/reading-notes/read03)|
-| 04 | [link](https://yahialabeeb.github.io/reading-notes/read04)|
-| 05 | [link](https://yahialabeeb.github.io/reading-notes/read05)|
-| 06 | [link]((https://yahialabeeb.github.io/reading-notes/read06)|
-| 07 | [link]((https://yahialabeeb.github.io/reading-notes/read07)|
-| 08 | [link]((https://yahialabeeb.github.io/reading-notes/read08)|
+| 01 | [link]()|
+| 02 | [link]()|
+| 03 | [link]()|
+| 04 | [link]()|
+| 05 | [link]()|
+| 06 | [link]()|
+| 07 | [link]()|
+| 08 | [link]()|
 
 ## Second table
 
-|Reading number|link|
+|Reading class number|link|
 |----|----|
 | 09 | [link]()|
 | 10 | [link]()|
