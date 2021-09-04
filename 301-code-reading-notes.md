@@ -7,7 +7,7 @@
 | 03 | [link]()|
 | 04 | [link]()|
 | 05 | [link](301reads/read05.md)|
-| 06 | [link]()|
+| 06 | [link](301reads/read06.md)|
 | 07 | [link]()|
 | 08 | [link]()|
 
