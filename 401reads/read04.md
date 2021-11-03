@@ -12,7 +12,6 @@
 
 ## Recursive Functions
 
-## A recursive function is 
  * a function defined in terms of itself via self-referential expressions.
 
 ![ss](./state_3.webp)
