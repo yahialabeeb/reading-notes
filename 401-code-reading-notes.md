@@ -5,5 +5,5 @@
 | 02 | [Testing and Modules](401reads/read02.md)|
 | 03 | [FileIO & Exceptions](401reads/read03.md)|
 | 04 | [Diferent Topics](401reads/read04.md)|
-| 04 | [linked list](401reads/read05.md)|
-
+| 05 | [linked list](401reads/read05.md)|
+| 06 | [Game of Greed 1](401reads/read06.md)|

@@ -84,6 +84,7 @@ I would say you are doing enough testing if the following is true:
 1. rarely get bugs that escape into production and rarely hesitant to change some code for fear it will cause production bugs.
 2. You are testing too much if you can remove tests while still having enough. But this is a difficult thing to sense. 
 3. One sign you are testing too much is if your tests are slowing you down. If it seems like a simple change to code causes excessively long changes to tests, that's a sign that there's a problem with the tests. 
+
 ## Summary
  helps you find which bits of your code aren't being tested.
  It's worth running coverage tools every so often and looking at these bits of untested code. 
