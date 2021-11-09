@@ -8,4 +8,5 @@
 | 05 | [linked list](401reads/read05.md)|
 | 06 | [Game of Greed 1](401reads/read06.md)|
 | 07 | [Scope](401reads/read07.md)|
-| 08 | [List Comprehensions](401reads/read07.md)|
+| 08 | [List Comprehensions](401reads/read08.md)|
+| 09 | [Dunder Methods & Probability](401reads/read09.md)|
