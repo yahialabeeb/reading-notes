@@ -11,3 +11,4 @@
 | 08 | [List Comprehensions](401reads/read08.md)|
 | 09 | [Dunder Methods & Probability](401reads/read09.md)|
 | 10 | [Stacks and Queues](401reads/read10.md)|
+| 11 | [Data Analysis](401reads/read11.md)|
