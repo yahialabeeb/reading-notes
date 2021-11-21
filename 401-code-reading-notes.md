@@ -17,3 +17,4 @@
 | 14 | [Matplotlib](401reads/read14.md)|
 | 15 | [Trees](401reads/read15.md)|
 | 16 | [Machine Learning](401reads/read16.md)|
+| 17 | [Web scarping](401reads/read17.md)|
