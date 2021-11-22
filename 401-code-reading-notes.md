@@ -18,3 +18,4 @@
 | 15 | [Trees](401reads/read15.md)|
 | 16 | [Machine Learning](401reads/read16.md)|
 | 17 | [Web scarping](401reads/read17.md)|
+| 18 | [shutil](401reads/read18.md)|
