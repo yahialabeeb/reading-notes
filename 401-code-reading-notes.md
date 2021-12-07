@@ -20,3 +20,4 @@
 | 17 | [Web scarping](401reads/read17.md)|
 | 18 | [shutil](401reads/read18.md)|
 | 26 | [Django](401reads/read26.md)|
+| 29 | [Django Custum User Model](401reads/read29.md)|
