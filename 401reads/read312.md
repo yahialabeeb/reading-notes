@@ -155,7 +155,7 @@ urlpatterns = [
 
 
 
-#### **4. Template **
+#### **4. Template**
 1. create a separate  project-level templates directory  within it  create a books folder, and then a book_list.html file. Finally update our settings.py file to point there.
 
 ```html
