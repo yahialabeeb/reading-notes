@@ -173,12 +173,14 @@ urlpatterns = [
 1. we use the for tag to loop over all available books. 
 2. Template tags must be included within opening/closing brackets and parentheses. 
 * format example
- ```dtl
+ ```html
  {% for ... %} 
  {% endfor %}.
  ```
-* The name of this object is object_list,so our loop will be {% for book in object_list %}. 
-
+* The name of this object is object_list,so our loop will be
+```html
+{% for book in object_list %}. 
+```
 
 * Now we can start up the local Django server and see our web page.
 
