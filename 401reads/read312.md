@@ -175,7 +175,8 @@ urlpatterns = [
 
 * The name of this object is object_list,so our loop will be
 ```html
-{% for book in object_list %}. 
+{% for book in object_list %}
+{% endfor %}
 ```
 
 * Now we can start up the local Django server and see our web page.
