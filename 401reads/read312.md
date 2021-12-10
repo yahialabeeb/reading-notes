@@ -172,11 +172,7 @@ urlpatterns = [
 * Django ships with a template language that allows for basic logic. 
 1. we use the for tag to loop over all available books. 
 2. Template tags must be included within opening/closing brackets and parentheses. 
-* format example
- ```html
- {% for ... %} 
- {% endfor %}.
- ```
+
 * The name of this object is object_list,so our loop will be
 ```html
 {% for book in object_list %}. 
