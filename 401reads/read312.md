@@ -258,4 +258,4 @@ We can use the popular cURL program to execute HTTP requests via the command lin
 ### Browsable API
 Django REST Framework provides this visualization by default. And there is a lot of functionality built into this page
 
-[<= Back}(read31.md)
+[<= Back](read31.md)

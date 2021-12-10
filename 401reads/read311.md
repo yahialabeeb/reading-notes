@@ -125,4 +125,4 @@ Instead of running separate commands to build the image and run the container we
 * docker-compose.yml controls how to run the container
 * Containers are stateless and ephemeral in nature. 
 
-[<= Back}(read31.md)
+[<= Back](read31.md)
