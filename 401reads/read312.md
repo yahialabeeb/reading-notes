@@ -101,7 +101,7 @@ Start with the superuser account.
 ```
 2. update our book app’s admin.py file.
 ```python 
-# books/admin.py
+
 from django.contrib import admin
 from .models import Book
 admin.site.register(Book)
@@ -112,7 +112,6 @@ The views.py file controls how the database model content is displayed.
 
 1. Update the books/views.py file.
 
-# books/views.py
 ```python 
 from django.views.generic import ListView
 from .models import Book
