@@ -216,7 +216,7 @@ view relies on Django REST Framework’s built-in generic class views.
 
 * Update views.py file to look like the following:
 ```python 
-# api/views.py
+
 from rest_framework import generics
 from books.models import Book
 from .serializers import BookSerializer
@@ -251,10 +251,10 @@ class BookSerializer(serializers.ModelSerializer):
 * On the top lines we import Django REST Framework’s serializers class and the Book model from our books app. 
 * We extend Django REST Framework’s ModelSerializer into a BookSerializer class that specifies our database model Book and the database fields we wish to expose: title, subtitle, author, and isbn.
 
-### cURL
+## cURL
 We can use the popular cURL program to execute HTTP requests via the command line. All we need for a basic GET request it to specify curl and the URL we want to call.
 
-### Browsable API
+## Browsable API
 Django REST Framework provides this visualization by default. And there is a lot of functionality built into this page
 
 [<= Back](read31.md)
