@@ -23,3 +23,4 @@
 | 29 | [Django Custum User Model](401reads/read29.md)|
 | 30 | [Hashtables](401reads/read30.md)|
 | 31 | [Docker & Django REST](401reads/read31.md)|
+| 32 | [DRF Permissions](401reads/read32.md)|
