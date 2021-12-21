@@ -26,4 +26,5 @@
 | 32 | [DRF Permissions](401reads/read32.md)|
 | 33 | [JWT Authentication & Production Server](401reads/read33.md)|
 | 35 | [JWT Authentication & Production Server](401reads/read35.md)|
-| 36 | [Imterview](401reads/read36.md)|
+| 36 | [Interview](401reads/read36.md)|
+| 36 | [NextJs](401reads/read39.md)|
