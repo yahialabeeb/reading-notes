@@ -29,3 +29,4 @@
 | 36 | [Interview](401reads/read36.md)|
 | 39 | [NextJs](401reads/read39.md)|
 | 41 | [Deploying](401reads/read41.md)|
+| 42 | [Ethics](401reads/Ethics.md)|
